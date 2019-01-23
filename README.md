@@ -1,10 +1,11 @@
 ## Live Demo
+https://dailyfashionpage.herokuapp.com/
 
 ## Installation
 
 ```bash
 git clone
-cd dailyFashionPage
+cd DailyFashionPage
 yarn
 ```
 
