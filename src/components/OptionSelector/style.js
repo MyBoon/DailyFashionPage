@@ -14,6 +14,8 @@ const StyleWrapper = styled.div`
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+    visibility: hidden;
+    display: none;
   }
 
   span label {
